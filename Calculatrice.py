@@ -18,8 +18,8 @@ def Division (x, y):
     print(f"La reponse est {z}")
 
 try: 
-    nombre1 = int(input("Quel est le premier nombre que tu veux ?: "))
-    nombre2 = int(input("Quel est le deuxième nombre que tu veux?: "))
+    nombre1 = int(input("Quel est le premier nombre que vous souhaitez calculer ?: "))
+    nombre2 = int(input("Quel est le deuxième nombre que vous souhaitez calculer ?: "))
     print("Que veux-tu faire avec les nombres?:\n ")
     print("  [1] Je veux une Addition !\n")
     print("  [2] Je veux une Soustraction !\n")
@@ -40,6 +40,6 @@ try:
         print("Les seules possibilitées sont 1, 2, 3 et 4.")
 
 except ValueError:
-    print("Alors frerot, on ne sait pas mettre une valeur ?")
+    print("Merci d'insérer une valeur réelle.")
 except:
-    print("Une erreur inconnue s'est produite")
+    print("Une erreur inconnue s'est produite.")
