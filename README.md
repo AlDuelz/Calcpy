@@ -4,7 +4,7 @@
 Simple calculatrice en Python que j'ai effectué avec l'aide de mon Enseignant.
 
 ![image](https://user-images.githubusercontent.com/79324894/122651955-53da7200-d13c-11eb-84b5-81350e15fce2.png)
-Simple calculator made by myself in Python with the help of my Teacher.
+Simple Python calculator made with the help of my Teacher.
 
 
 
